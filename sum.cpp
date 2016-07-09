@@ -1,9 +1,4 @@
 int sum(int n) {
-	int i ;
-	int res=0;
-		for (i=0; i<=n; i++){
-			res=res+i;	
-		}
+	rerutn (n+1)*n/2;
 	return res;
 }
-
